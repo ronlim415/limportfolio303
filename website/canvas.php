@@ -19,8 +19,7 @@
         </ul>
     </nav>
     <div class="sidebar">
-            <a href="LE7.1.php">LE 7.1</a>
-            <a href="LE7.2.php">LE7.2</a>
+        <a href="LE7.1.php">LE 7.1</a>
         </div>
 </body>
 </html>
