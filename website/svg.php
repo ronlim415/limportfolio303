@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./css/sidebar.css">
 </head>
 <body>
-    <h1>SVG CONTENTS</h1>
+    <h1>SVG PROJECTS</h1>
     <nav>
         <ul>
             <li><button class="dropbtn"><a href="index.php">Home</a></button></li>
