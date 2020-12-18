@@ -19,8 +19,7 @@
         </ul>
     </nav>
     <div class="sidebar">
-            <a href="LE7.1.php">LE 7.1</a>
-            <a href="LE7.2.php">LE7.2</a>
+        <a href="LE7.1.php">LE 7.1</a>
         </div>
         <div class="container1">
         <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="ron-lim" data-slug-hash="JjRJNzR" data-preview="true" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="hexagon">
