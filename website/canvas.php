@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./css/sidebar.css">
 </head>
 <body>
-    <h1>CANVAS CONTENTS</h1>
+    <h1>CANVAS PROJECTS</h1>
     <nav>
         <ul>
             <li><button class="dropbtn"><a href="index.php">Home</a></button></li>
